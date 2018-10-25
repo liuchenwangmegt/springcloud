@@ -1,0 +1,6 @@
+com\lingjoin\springcloud\dao\DeptDao.class
+com\lingjoin\springcloud\service\DeptService.class
+com\lingjoin\springcloud\controller\DeptController.class
+com\lingjoin\springcloud\DeptProviderApplication_App.class
+com\lingjoin\springcloud\entity\Dept.class
+com\lingjoin\springcloud\service\impl\DeptServiceImpl.class
